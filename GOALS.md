@@ -35,4 +35,7 @@
 - redis stream for background queue
 - start looking at things to do for staff/principal engineers
 - puzzles for Devil's plan
-- [ ] coding AI
+- [ ] coding AI, codium
+- [ ] llmops
+- [ ] how to fine tune your own model
+- [ ] how to utilise llama2
