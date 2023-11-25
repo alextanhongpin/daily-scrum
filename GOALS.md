@@ -5,11 +5,11 @@
 - [ ] cleanup documentation
 	- cleanup x new documents
 - [ ] explore openai
-- [ ] create github copilot
 
 ## Done
 
 - [x] learn about the new langchain workflow
+- [x] create github copilot
 
 
 ## Backlog
