@@ -37,5 +37,15 @@
 - puzzles for Devil's plan
 - [ ] coding AI, codium
 - [ ] llmops
+	 - what is LLMOPs?
+	 - how to get started
+	 - what is the most important thing to learn?
 - [ ] how to fine tune your own model
 - [ ] how to utilise llama2
+- [ ] advanced prompting techniques
+	- zero shot
+	- one shot
+	- few shot shot
+	- ReAct
+	- CON
+	- ToT
