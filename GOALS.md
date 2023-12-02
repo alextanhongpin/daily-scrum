@@ -39,6 +39,7 @@
 - [ ] llmops
 	 - what is LLMOPs?
 	 - how to get started
+	 - how to create the pipelines required
 	 - what is the most important thing to learn?
 - [ ] how to fine tune your own model
 - [ ] how to utilise llama2
@@ -49,3 +50,5 @@
 	- ReAct
 	- CON
 	- ToT
+- learn trulens evaluation (?)
+- how to measure if your AI application is improving?
