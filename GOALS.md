@@ -1,4 +1,4 @@
-## Todo
+[##](##) Todo
 
 - [ ] resume - my journey
 	- presentation on lifeline
@@ -52,3 +52,5 @@
 	- ToT
 - learn trulens evaluation (?)
 - how to measure if your AI application is improving?
+- learn TaskWeaver
+- learn chainlit
