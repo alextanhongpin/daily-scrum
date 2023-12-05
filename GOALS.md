@@ -54,3 +54,5 @@
 - how to measure if your AI application is improving?
 - learn TaskWeaver
 - learn chainlit
+- learn promptflow
+- setup jupyterai
