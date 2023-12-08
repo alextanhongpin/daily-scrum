@@ -56,3 +56,4 @@
 - learn chainlit
 - learn promptflow
 - setup jupyterai
+- learn keras3
