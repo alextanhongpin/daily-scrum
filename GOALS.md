@@ -57,3 +57,10 @@
 - learn promptflow
 - setup jupyterai
 - learn keras3
+
+# Competencies
+
+Can we further break down the learnings?
+
+1. Start with the broad discipline, e.g. backend, frontend, devops etc.
+2. Go into the details on what you are learning, e.g. topic: resiliency, or specific frameworks/tools: llama-index, chainlit
