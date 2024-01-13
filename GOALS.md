@@ -58,6 +58,14 @@
 - setup jupyterai
 - learn keras3
 
+
+## Read
+- pinecone
+- autogen
+- cohere
+- developer nvidia
+- arxiv
+
 # Competencies
 
 Can we further break down the learnings?
