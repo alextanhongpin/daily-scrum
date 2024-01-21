@@ -72,3 +72,7 @@ Can we further break down the learnings?
 
 1. Start with the broad discipline, e.g. backend, frontend, devops etc.
 2. Go into the details on what you are learning, e.g. topic: resiliency, or specific frameworks/tools: llama-index, chainlit
+
+To read
+- https://goldinlocks.github.io/Bayesian-logistic-regression-with-pymc3/
+- https://www.bayesrulesbook.com/chapter-13
